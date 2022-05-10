@@ -22,3 +22,13 @@ At MFM, aggressive prayer is considered as an aid to spiritual focus and a check
 
 ### Coding in Church?
 Yes :smiley:, we do have the need to make the lives of the people around us better through technology. 
+
+## Get in touch!
+
+If you want to join us, visit us at 230 Rexdale boulevard Etobicoke, Ontario or at our various [worship centers](https://www.mfmtoronto1.org/branches/) across the globe.
+
+You can also read about what we do and how we do it on our website [mfmtoronto1.org](https://mfmtoronto1.org/).
+
+<a href="https://twitter.com/mfmtoronto"><img align="center" src="/profile/icons/twitter_icon.png" alt="@mfmtoronto on Twitter" height="48" width="48" /></a>
+<a href="https://instagram.com/mfmtoronto"><img align="center" src="/profile/icons/instagram_icon.png" alt="MFM Toronto on Instagram" height="48" width="48" /></a>
+<a href="https://www.facebook.com/mfmtoronto/"><img align="center" src="/profile/icons/facebook_icon.png" alt="MFM Toronto on Facebook" height="48" width="48" /></a>
