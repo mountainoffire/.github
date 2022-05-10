@@ -1,4 +1,4 @@
-## Hello World 👋
+# Mountain Of Fire and Miracles Ministries
 
 <!--
 
@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to Mountain Of Fire and Miracles Ministries engineering space :clap:.
+Hello World 👋, welcome to Mountain Of Fire and Miracles Ministries engineering space :clap:.
 
-### Who or What is Mountain Of Fire
+### Who or What is Mountain of Fire
 Mountain Of Fire and Miracles Ministries is a full gospel ministry devoted to the Revival of Apostolic Signs, Holy Ghost fireworks and the unlimited demonstration of the power of God to deliver to the uttermost.
 
 Absolute holiness within and without as the greatest spiritual insecticide and a prerequisite for Heaven is taught openly. MFM is a do-it-yourself Gospel ministry where your hands are trained to wage war and your fingers to do battle.
